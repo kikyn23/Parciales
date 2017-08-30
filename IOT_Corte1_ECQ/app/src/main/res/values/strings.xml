@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IOT_Corte1_ECQ</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="direccion">Dirección</string>
+    <string name="correo">Correo</string>
+    <string name="enviar">Enviar</string>
+</resources>
